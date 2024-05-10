@@ -1,2 +1,2 @@
 # annanyasah.github.io
-Personal website
+Personal website for blogging and experimentation
